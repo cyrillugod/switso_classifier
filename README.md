@@ -1,5 +1,5 @@
 # switso_classifier
-Fine-tuned VGG-19 for Switso classification
+Fine-tuned VGG-19 for "Switso" classification (Lhasa Apso, Maltese, Pekingese, and Shih Tzu)
 
 ## Environment Setup
 1. Ensure that Python is installed on your machine. If not, download and install the latest version of Python from the official Python website [here](https://www.python.org).
